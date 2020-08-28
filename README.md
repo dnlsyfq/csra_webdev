@@ -15,6 +15,8 @@
 
 * provides common tree-like structure
 
+<img src="dom.jpg">
+
 ### HTML5 Tags and Syntax
 
 |Special Entities|Syntax|
