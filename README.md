@@ -11,3 +11,38 @@
 
         </table>
 ```
+### DOM 
+
+* provides common tree-like structure
+
+### HTML5 Tags and Syntax
+
+|Special Entities|Syntax|
+|---|---|
+|<|&lt;|
+|>|&gt;|
+|c||&copy;|
+|blank space|&nbsp;|
+|c|&cent;|
+|&|&amp;|
+
+### HEAD tag
+* meta
+
+### HEADER tag
+* title
+* nav tags
+
+### BODY tag
+* nav tags
+
+### FOOTER tag 
+
+
+### Figure tag 
+
+<figure>
+    <img src="" alt="">
+    <figcaption>
+    </figcaption>
+</figure>
